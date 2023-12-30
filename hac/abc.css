@@ -1,0 +1,30 @@
+th{
+    text-align: center;
+    align-items: center;
+    background-color:#8a9a5b ;
+    
+}
+h1{
+    background-color: #8a9a5b;
+    width: 600px;
+}
+table{
+    align-items: center;
+    text-align: center;
+}
+fieldset{
+    width: 300px;
+    height: 160px;
+    background-color:#8a9a5b ;
+    
+}
+label{
+    text-align: center;
+}
+button:hover{
+background-color: #000000;
+color: white;
+}
+h1{
+    background-color: #8a9a5b;
+}
